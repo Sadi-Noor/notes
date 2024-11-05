@@ -1,7 +1,7 @@
 ---
 layout: Post
 title: About
-permalink: /about/
+permalink: /notes/about/
 content-type: eg
 ---
 
