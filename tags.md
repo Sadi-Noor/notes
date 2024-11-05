@@ -1,7 +1,7 @@
 ---
 layout: Post
 title: By Tags
-permalink: /tags/
+permalink: /notes/tags/
 content-type: eg
 ---
 
