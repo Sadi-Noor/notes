@@ -1,7 +1,7 @@
 ---
 layout: Post
 title: By Date
-permalink: /dates/
+permalink: /notes/dates/
 content-type: eg
 ---
 
