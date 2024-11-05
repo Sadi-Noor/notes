@@ -2,7 +2,7 @@
 layout: Stylesheet
 ---
 
-@import "notes/assets/css/highlight.css";
+@import "/notes/assets/css/highlight.css";
 /* Containers: Body, Container, Box, Main, Header, Content */ 
 
 :root {
