@@ -151,7 +151,7 @@ defaults:
       type: posts
     values:
       layout: Post
-      permalink: {{ site.baseurl }}/posts/:title
+      permalink: /notes/posts/:title
       content-type: post
 
 
